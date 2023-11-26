@@ -28,3 +28,12 @@
 ## 7. Rozwiązywanir problemów (issues)
 
 ![Alt text](image-3.png)
+
+## 8. Wprowadzanie Zmian na Podstawie Issue
+
+![Alt text](image-7.png)
+![Alt text](image-9.png)
+
+## 9. Współpraca z Innymi
+
+![Alt text](image-10.png)
