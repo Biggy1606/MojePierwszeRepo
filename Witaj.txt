@@ -1,0 +1,2 @@
+    Stwórz prosty plik tekstowy o nazwie "Witaj.txt" i dodaj kilka przykładowych linii tekstu.
+    Dodaj ten plik do swojego repozytorium.
